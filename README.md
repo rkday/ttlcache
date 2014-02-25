@@ -6,7 +6,7 @@ Based on [data.priority-map](https://github.com/clojure/data.priority-map) and [
 
 ## Usage
 
-Leiningen: `[uk.me.rkd.ttlcache 0.1.0]`
+Leiningen: `[uk.me.rkd.ttlcache "0.1.0"]` ([Clojars](https://clojars.org/uk.me.rkd.ttlcache))
 
 :require: `[uk.me.rkd.ttlcache :refer [per-item-ttl-cache-factory ttl-cache-factory]]`
 
